@@ -57,3 +57,25 @@ run
 :x
 $
 ```
+### Debug a Program with No Arguments
+```
+$ gdb -x myproject.gdb
+```
+### Debug a Program with Arguments
+```
+$ gdb -x myproject.gdb --args myproject argument-1 argument-2
+```
+### Useful GDB Commands
+```
+Delete all breakpoints                       (gdb) d
+Enable the Text User Interface (TUI)         (gdb) tui enable
+Examine memory at an address                 (gdb) x 0x8049000
+Quit gdb                                     (gdb) q
+Select the registers layout                  (gdb) layout regs
+Set breakpoint at a routine                  (gdb) break _main
+Set height of TUI registers window           (gdb) winheight regs 6
+Set height of TUI source window              (gdb) winheight src 45
+Single-step one instruction                  (gdb) s
+Step to the next source line                 (gdb) n
+Update a byte in memory                      (gdb) set *((char*)&wbServiceState) = 0x01
+```
