@@ -1,5 +1,4 @@
 # Using GDB
-
 ### GDB Initialization File for Fedora 30
 ##### Confirm GDB Version
 ```
@@ -27,6 +26,8 @@ end
 define hook-quit
   set confirm off
 end
+:x
+$
 ```
 If curses window management is not availble
 ```
@@ -43,4 +44,16 @@ end
 define hook-quit
   set confirm off
 end
+:x
+$
+```
+### Create a GDB Project Command File
+```
+$ cd ~/myproject
+# vi myproject.gdb
+file myproject
+break main
+run
+:x
+$
 ```
