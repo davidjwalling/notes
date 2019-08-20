@@ -1,6 +1,6 @@
 # notes
 #### Common Configuration
-  [Enable the Dark Theme in Firefox](FIREFOX.md)
+  [Enable the Dark Theme in Firefox](FIREFOX.md)  
   [Add Stylus Add-on to Firefox and Styles for Github](STYLUS.md)  
   [Configure GDB Inititalization and Project Files](GDB.md)
 
