@@ -12,3 +12,5 @@ Close the "Add ons" and "Options" tabs
 ![](images/FirefoxDarkMode-001.PNG)
 ### Select Extensions and Themes
 ![](images/FirefoxDarkMode-002.PNG)
+### Select Themes
+![](images/FirefoxDarkMode-003.PNG)
