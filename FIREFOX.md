@@ -10,11 +10,11 @@ Close the "Add ons" and "Options" tabs
 ```
 ### Select Options Menu
 ![](images/FirefoxDarkMode-001.PNG)
-### Select Themes
+### Select Extensions and Themes
 ![](images/FirefoxDarkMode-002.PNG)
-### Enable Dark Mode
+### Select Themes
 ![](images/FirefoxDarkMode-003.PNG)
-### 
+### Enable Dark Mode
 ![](images/FirefoxDarkMode-004.PNG)
 ###
 ![](images/FirefoxDarkMode-005.PNG)
