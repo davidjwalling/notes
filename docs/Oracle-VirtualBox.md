@@ -1,10 +1,6 @@
 ## Oracle Virtual Box
 
-This project is about configuring and running Hercules on Linux. If you already have a Linux box set up, you can skip this step and resume at the <a href="https://github.com/davidjwalling/drinker/blob/master/docs/System-Prep.md">Preparing your Linux Environment</a> page.
-
-On this site I document how to configure and run Hercules continuously in the cloud because I want to access my development environment at any time from practically anywhere over the Internet. These instructions can also be used to set up a virtualized Linux instance on your local computer. That is why I have included this page. Having a local Linux environment running virtually lets me test changes to my configuration before migrating them to the cloud.
-
-You have choices if you want to run Linux virtually. I use Oracle VirtualBox. But, choices include other type-1 hypervisors like VMWare or OS-level virtualization like Docker or Windows Subsystem for Linux (WSL). I prefer VirtualBox for this project because it doesn't require Hyper-V and its control panel conveniently stays open when stopping and starting different virtual machines.
+You have choices if you want to run Linux virtually. Oracle VirtualBox is one option. Alternatives include other type-1 hypervisors like VMWare or OS-level virtualization like Docker or Windows Subsystem for Linux (WSL).
 
 <table><tr><td>
 As of this writing, Oracle VirtualBox 6.16 is the current version.<br>
