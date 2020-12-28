@@ -1,5 +1,5 @@
 # Using GDB
-### GDB Initialization File for Fedora 30
+### GDB Initialization File
 ##### Confirm GDB Version
 ```
 $ gdb --version
@@ -79,3 +79,5 @@ Single-step one instruction                  (gdb) s
 Step to the next source line                 (gdb) n
 Update a byte in memory                      (gdb) set *((char*)&wbServiceState) = 0x01
 ```
+
+Return to [README](../README.md)

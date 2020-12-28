@@ -94,3 +94,5 @@ This algorithm is based on the half-duplex principle and restriction.
 Devices conneted to the LAN hub may not receive while transmitting.
 Full-duplex operation is possible using a Layer 2 LAN Switch which can queue one frame while sending another.
 ```
+
+Return to [README](../README.md)

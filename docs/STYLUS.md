@@ -22,3 +22,5 @@ Click on "Install Style"
 Click OK to "Install 'Github Dark Wide Transparent' into Stylus"
 Confirm "Style Installed"
 ```
+
+Return to [README](../README.md)
