@@ -4,7 +4,7 @@
   [Stylus Github Add-On for Firefox](docs/STYLUS.md)  
   [GDB Inititalization and Project Files](docs/GDB.md)  
   [QEMU for Windows x64](docs/QEMU.md)  
-  [Oracle(R) VirtualBox](docs/Oracle-VirtualBox.md)  
+  [Oracle VirtualBox](docs/Oracle-VirtualBox.md)  
   [Ubuntu 20.04 OSBoxes](docs/Osboxes-Ubuntu.md)
 
 #### Study Notes
