@@ -2,7 +2,7 @@
 
 In the previous step, we installed Oracle VirtualBox to provide a virtualization platform for a Linux environment. Now we can proceed to install Ubuntu 20.04 as a virtual machine.
 
-There are many Linux distributions to choose from. Hercules doesn't require any specific distribution. I like Ubuntu because its user interface feels intuitive and efficient. It's software repository seems to be kept current and supports all the contemporary tools I like to use. It's not perfect. But, version 20.04 has proven to be pretty reliable in my experience. It's also the version I use for my cloud server.
+There are many Linux distributions to choose from. I like Ubuntu because its user interface feels intuitive and efficient. It's software repository seems to be kept current and supports all the contemporary tools I like to use. It's not perfect. But, version 20.04 has proven to be pretty reliable in my experience. It's also the version I use for my cloud server.
 
 Before we start, please make sure virtualization is enabled on your computer. Check the BIOS settings if necessary to make sure VT-x or AMD-V virtualization is enabled.
 
