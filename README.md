@@ -18,7 +18,7 @@ a graph more lovely than a tree.
 A tree whose crucial property  
 is loop-free connectivity.  
 A tree that must be sure to span  
-so packet can reach every LAN.  
+so packets can reach every LAN.  
 First, the root must be selected.  
 By ID, it is elected.  
 Least-cost paths from root are traced.  
